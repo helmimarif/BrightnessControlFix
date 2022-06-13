@@ -1,0 +1,6 @@
+#!/system/bin/sh
+echo Brightness Control Fix
+echo 2047 > sys/devices/platform/leds-mt65xx/leds/lcd-backlight/brightness
+echo ....................................................................................................
+echo ....................................................................................................
+echo Script Created By Ayse.
